@@ -1412,7 +1412,7 @@ transition: all .4s ease-in-out;
   }
 
   .main-img-mobile {
-    background: url(me.png);
+    background: url(../img/me.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 230px;
@@ -1474,7 +1474,7 @@ transition: all .4s ease-in-out;
   }
 
   .about .box-stats h3 {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   .about .box-stats p {
