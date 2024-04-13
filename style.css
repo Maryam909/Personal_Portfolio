@@ -1409,7 +1409,7 @@ body.light hr.separator {
   }
 
   .main-img-mobile {
-    background: url(../img/me.png);
+    background: url(me.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 230px;
